@@ -348,6 +348,10 @@ var tests = []struct {
 				expected: []Item{{BOOL, 0, "bool"}},
 			},
 			{
+				input: "required",
+				expected: []Item{{REQUIRED, 0, "required"}},
+			},
+			{
 				input:    "atan2",
 				expected: []Item{{ATAN2, 0, "atan2"}},
 			},

@@ -126,6 +126,7 @@ var key = map[string]ItemType{
 	"group_left":  GROUP_LEFT,
 	"group_right": GROUP_RIGHT,
 	"bool":        BOOL,
+	"required":    REQUIRED,
 
 	// Preprocessors.
 	"start": START,

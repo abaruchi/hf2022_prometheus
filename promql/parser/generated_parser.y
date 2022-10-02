@@ -115,6 +115,7 @@ IGNORING
 OFFSET
 ON
 WITHOUT
+REQUIRED
 %token keywordsEnd
 
 // Preprocessors.
